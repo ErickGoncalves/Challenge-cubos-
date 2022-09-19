@@ -1,4 +1,4 @@
-const palavras = ['melancia', 'ovo', 'abobora', 'melao', 'manga', 'abacaxi', 'leite']
+const palavras = ['melancia', 'ovo', 'melao', 'manga', 'abacaxi', 'leite']
 const letra = 'm';
 
 let verificador = 0;
